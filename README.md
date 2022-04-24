@@ -1,6 +1,7 @@
 <img src="logo.png">
 
 # Tyche
+Data Science approach to building investment portfolios. Using Analytics and Automation to recognise and act upon arbritrage opportunities
 
 Tech Stack:
 - [Svelte Kit](https://kit.svelte.dev/)
