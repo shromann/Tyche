@@ -1,7 +1,6 @@
-<img src="logo.png" width="128">
+<img src="logo.png">
 
 # Tyche
-===
 Data Science and a Quantitive approach to building portfolios and early investment opportunity recognition AI
 
 Tech Stack:
