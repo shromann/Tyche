@@ -1,7 +1,6 @@
 <img src="logo.png">
 
 # Tyche
-Data Science and a Quantitive approach to building portfolios and early investment opportunity recognition AI
 
 Tech Stack:
 - [Svelte Kit](https://kit.svelte.dev/)
